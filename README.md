@@ -1,5 +1,7 @@
 # PRODIGY_CS_01
-Here we are Implementing Caser Cipher - which works as Encryption and Decryption by using shift value to perform here by using the Python Program the code.
+Here the Task given by Prodigy - 
+
+Implementing Caser Cipher - which works as Encryption and Decryption by using shift value to perform here by using the Python Program the code.
 
 For more information for Caesar Chip - https://www.geeksforgeeks.org/caesar-cipher-in-cryptography/ 
 to know where its used and how the basic knowledge for it in the link above.
